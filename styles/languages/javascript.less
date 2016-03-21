@@ -17,19 +17,38 @@
   .entity.name {
     color: @syntax-text-color;
   }
+	.entity.name.function {
+		color: @magenta;
+		font-weight: bold;
+	}
+	.string.unquote { // obj properties
+
+	}
+	.key-value {
+	}
+	.meta.delimiter.comma {
+		color: @cyan;
+		font-weight: 900;;
+		//padding-left: 10px;
+	}
 
   .meta.brace {
     color: @syntax-text-color;
   }
 
+	.storage {
+		color: @magenta;
+	}
   .keyword {
-    color: @syntax-text-color;
+    //color: @syntax-text-color;
+    color: @red;
+    //font-weight: bold;
   }
   .keyword.operator.new {
     color: @green;
   }
   .keyword.control {
-    color: @green;
+		color: @green;
   }
   .keyword.control.regexp {
     color: @cyan;
@@ -48,6 +67,7 @@
 
   .support.function {
     color: @violet;
+		font-weight: bold;
   }
   .support.constant {
     color: @syntax-text-color;
@@ -62,7 +82,7 @@
   }
 
   .meta.delimiter.method.period {
-    color: @syntax-text-color;
+    color: @red; //color: @syntax-text-color;
   }
   .meta.brace.square {
     color: @blue;
