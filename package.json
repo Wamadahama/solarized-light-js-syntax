@@ -7,5 +7,16 @@
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
-  }
+  },
+  "keywords": [
+    "solarized",
+    "light",
+    "atom",
+		"syntax",
+		"theme",
+		"functional",
+		"js",
+		"javascript",
+		"es6"
+  ]
 }
