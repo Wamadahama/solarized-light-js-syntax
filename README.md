@@ -2,7 +2,7 @@
 
 Atom theme using the ever popular light [solarized](http://ethanschoonover.com/solarized) colors.
 
-<img alt="screenshot" src="https://cloud.githubusercontent.com/assets/378023/12602186/87edab3e-c4ea-11e5-8f4a-4b7defda283b.png" srcset="https://cloud.githubusercontent.com/assets/378023/12602177/78d568da-c4ea-11e5-836d-e922ca5c850a.png 2x">
+<img alt="screenshot" src="https://raw.githubusercontent.com/veggiemonk/solarized-light-js-syntax/master/Screenshot%20from%202016-03-28%2010%3A58%3A08.png" srcset="https://raw.githubusercontent.com/veggiemonk/solarized-light-js-syntax/master/Screenshot%20from%202016-03-28%2010%3A58%3A08.png 2x">
 
 This theme is installed by default with Atom and can be activated by going to
 the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
